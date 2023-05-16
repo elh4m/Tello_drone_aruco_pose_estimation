@@ -1,5 +1,5 @@
 # Tello_drone_aruco_pose_estimation
-this repository contains all requirements to perform aruco marker detection and pose estimation (estimate the position of the camera with respect to the marker)
+this repository contains all requirements to perform camera calibration ,aruco marker detection and pose estimation 
 
 # How it works
 
